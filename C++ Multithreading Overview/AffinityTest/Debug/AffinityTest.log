@@ -1,0 +1,9 @@
+﻿Build started 2014-11-27 12:42:54.
+     1>Project "C:\Users\R\Desktop\C++ Multithreading Overview\AffinityTest\AffinityTest.vcxproj" on node 2 (Clean target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\AffinityTest.lastbuildstate".
+     1>Done Building Project "C:\Users\R\Desktop\C++ Multithreading Overview\AffinityTest\AffinityTest.vcxproj" (Clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.17

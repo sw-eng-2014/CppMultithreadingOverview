@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AffinityTest", "AffinityTest\AffinityTest.vcxproj", "{95110CF0-30C0-4DA1-9D4A-617329F502E8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BoostTest", "BoostTest\BoostTest.vcxproj", "{26BAB631-6295-4E42-8674-465C8E437C0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95110CF0-30C0-4DA1-9D4A-617329F502E8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{95110CF0-30C0-4DA1-9D4A-617329F502E8}.Debug|Win32.Build.0 = Debug|Win32
+		{95110CF0-30C0-4DA1-9D4A-617329F502E8}.Release|Win32.ActiveCfg = Release|Win32
+		{95110CF0-30C0-4DA1-9D4A-617329F502E8}.Release|Win32.Build.0 = Release|Win32
+		{26BAB631-6295-4E42-8674-465C8E437C0A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{26BAB631-6295-4E42-8674-465C8E437C0A}.Debug|Win32.Build.0 = Debug|Win32
+		{26BAB631-6295-4E42-8674-465C8E437C0A}.Release|Win32.ActiveCfg = Release|Win32
+		{26BAB631-6295-4E42-8674-465C8E437C0A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
